@@ -1,6 +1,6 @@
-# This repository contains dotfiles for my linux setup.
+## This repository contains dotfiles (mostly bash profiles) for my linux setup.
 
-## For Arch installs only!
+### For Arch installs only! (if touchpad on the laptop is not working as expected)
 
 Unless specified otherwise in the README, the locations of the dotfiles is the home directory.
 
